@@ -1,7 +1,6 @@
 ## Hi there , I'm [Raghav Kumar]👋
 
-
-I am a driven **Computer Science & Engineering (B.Tech)** . My core focus lies at the intersection of high-performance backend architectures, predictive data systems, and proactive network security.
+ My core focus lies at the intersection of high-performance backend architectures, predictive data systems, and proactive network security.
 
 
 ---
