@@ -19,8 +19,6 @@
 <br/>
 
 <img src="https://raw.githubusercontent.com/Raghavkumar2303/Raghavkumar2303/main/footer.svg" width="100%" alt="Celestial Sign-off">
-
-
 ---
 
 ### 🛡️ Core Technical Focus
