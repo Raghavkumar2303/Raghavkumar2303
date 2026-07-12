@@ -14,7 +14,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🌌 [Network Packet Sniffer & Intrusion Detection System](Link-to-your-sniffer-repo)
+#### 🌌 [Network Packet Sniffer & Intrusion Detection System](Link-to-your-sniffer-repo) [https://github.com/Raghavkumar2303/Network-Packet-Sniffer]
 - Designed a real-time Python utility using the `Scapy` library to capture and deep-parse active network packets across IP, TCP, and UDP layers.
 - Implemented proactive logging signatures to detect unencrypted HTTP traffic and plain-text credential leaks.
 
