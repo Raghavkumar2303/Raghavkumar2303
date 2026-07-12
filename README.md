@@ -2,7 +2,7 @@
 
  My core focus lies at the intersection of high-performance backend architectures, predictive data systems, and proactive network security.
 
- <img src="https://raw.githubusercontent.com/Raghavkumar2303/Raghavkumar2303/main/header.svg" width="100%" alt="Celestial Chart">
+<img src="https://raw.githubusercontent.com/Raghavkumar2303/Raghavkumar2303/main/header.svg" width="100%" alt="Celestial Chart">
 
 <br/>
 
