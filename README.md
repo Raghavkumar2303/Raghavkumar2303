@@ -18,7 +18,7 @@
 - Designed a real-time Python utility using the `Scapy` library to capture and deep-parse active network packets across IP, TCP, and UDP layers.
 - Implemented proactive logging signatures to detect unencrypted HTTP traffic and plain-text credential leaks.
 
-#### 📊 [Market Volatility Analyzer & Predictive Trading Engine](Link-to-your-bot-repo)
+#### 📊 [Market Volatility Analyzer & Predictive Trading Engine](Link-to-your-bot-repo)[https://github.com/Raghavkumar2303/Market-Volatility-Analyzer]
 - Built an automated data pipeline using Python (`Pandas`, `NumPy`) that interfaces with financial APIs to track real-time asset movements.
 - Engineered data evaluation algorithms to calculate automated asset risk metrics and simulate rule-based trade executions.
 
