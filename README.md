@@ -2,23 +2,6 @@
 
  My core focus lies at the intersection of high-performance backend architectures, predictive data systems, and proactive network security.
 
-<img src="https://raw.githubusercontent.com/Raghavkumar2303/Raghavkumar2303/main/header.svg" width="100%" alt="Celestial Chart">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Raghavkumar2303/Raghavkumar2303/main/about.svg" width="100%" alt="Celestial Almanac">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Raghavkumar2303/Raghavkumar2303/main/skills.svg" width="100%" alt="Celestial Catalogue">
-
-<br/>
-
-<img src="https://ryme.md/api/render/celestial-github-stats?u=Raghavkumar2303&bg=0e1530&fg=eef2fb&accent=d9b25b&muted=9fb1d6" width="100%" alt="Celestial Observatory">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Raghavkumar2303/Raghavkumar2303/main/footer.svg" width="100%" alt="Celestial Sign-off">
 ---
 
 ### 🛡️ Core Technical Focus
